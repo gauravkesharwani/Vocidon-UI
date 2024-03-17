@@ -1,0 +1,382 @@
+<div class="CaseContent__commandsGrid">
+    <column class="CaseContent__command">
+        <row class="CaseContent__commandIcons"><img class="CaseContent__commandIcon Image"
+                src="/img/use-case-marketing.svg" style="width: 40px; height: 40px;"></row>
+        <div class="CaseContent__commandTitle">Extract and research SEO keywords</div>
+        <div class="CaseContent__commandDesc">Extract keywords from competitor's article, perform keyword research. Find
+            keyword density and LSI keywords.</div>
+        <div class="CaseContent__commandBg"></div><a class="Button CaseContent__button" href="https://get.harpa.ai"
+            target="_blank" type="button">USE COMMAND</a>
+    </column>
+    <column class="CaseContent__command">
+        <row class="CaseContent__commandIcons"><img class="CaseContent__commandIcon Image"
+                src="/img/use-case-marketing.svg" style="width: 40px; height: 40px;"></row>
+        <div class="CaseContent__commandTitle">Keyword report</div>
+        <div class="CaseContent__commandDesc">Create a keyword report and SEO content plan from 1 keyword.</div>
+        <div class="CaseContent__commandBg"></div><a class="Button CaseContent__button" href="https://get.harpa.ai"
+            target="_blank" type="button">USE COMMAND</a>
+    </column>
+    <column class="CaseContent__command">
+        <row class="CaseContent__commandIcons"><img class="CaseContent__commandIcon Image"
+                src="/img/use-case-marketing.svg" style="width: 40px; height: 40px;"></row>
+        <div class="CaseContent__commandTitle">Keyword strategy generator</div>
+        <div class="CaseContent__commandDesc">Provides a detailed strategy for any SEO keyword.</div>
+        <div class="CaseContent__commandBg"></div><a class="Button CaseContent__button" href="https://get.harpa.ai"
+            target="_blank" type="button">USE COMMAND</a>
+    </column>
+    <column class="CaseContent__command">
+        <row class="CaseContent__commandIcons"><img class="CaseContent__commandIcon Image"
+                src="/img/use-case-marketing.svg" style="width: 40px; height: 40px;"></row>
+        <div class="CaseContent__commandTitle">Segment your audience</div>
+        <div class="CaseContent__commandDesc">Break your audience into target-able groups with similar needs.</div>
+        <div class="CaseContent__commandBg"></div><a class="Button CaseContent__button" href="https://get.harpa.ai"
+            target="_blank" type="button">USE COMMAND</a>
+    </column>
+    <column class="CaseContent__command">
+        <row class="CaseContent__commandIcons"><img class="CaseContent__commandIcon Image"
+                src="/img/use-case-marketing.svg" style="width: 40px; height: 40px;"></row>
+        <div class="CaseContent__commandTitle">Monthly content calendar</div>
+        <div class="CaseContent__commandDesc">Get a well organized 4-week content calendar that targets your primary
+            keyword using transaction long-tail keyword &amp; clickbait titles.</div>
+        <div class="CaseContent__commandBg"></div><a class="Button CaseContent__button" href="https://get.harpa.ai"
+            target="_blank" type="button">USE COMMAND</a>
+    </column>
+    <column class="CaseContent__command">
+        <row class="CaseContent__commandIcons"><img class="CaseContent__commandIcon Image"
+                src="/img/use-case-marketing.svg" style="width: 40px; height: 40px;"></row>
+        <div class="CaseContent__commandTitle">Weekly content calendar</div>
+        <div class="CaseContent__commandDesc">Get a well organized 1 week content strategy and calendar that targets
+            your primary keyword.</div>
+        <div class="CaseContent__commandBg"></div><a class="Button CaseContent__button" href="https://get.harpa.ai"
+            target="_blank" type="button">USE COMMAND</a>
+    </column>
+    <column class="CaseContent__command">
+        <row class="CaseContent__commandIcons"><img class="CaseContent__commandIcon Image"
+                src="/img/use-case-marketing.svg" style="width: 40px; height: 40px;"></row>
+        <div class="CaseContent__commandTitle">Outrank SEO article</div>
+        <div class="CaseContent__commandDesc">Outrank the competition with an in-depth, SEO-optimized article. Navigate
+            to the web page with an article to outrank, then run this command.</div>
+        <div class="CaseContent__commandBg"></div><a class="Button CaseContent__button" href="https://get.harpa.ai"
+            target="_blank" type="button">USE COMMAND</a>
+    </column>
+    <column class="CaseContent__command">
+        <row class="CaseContent__commandIcons"><img class="CaseContent__commandIcon Image"
+                src="/img/use-case-marketing.svg" style="width: 40px; height: 40px;"></row>
+        <div class="CaseContent__commandTitle">Topic authority</div>
+        <div class="CaseContent__commandDesc">Create a table with article ideas to help you build a topic authority.
+        </div>
+        <div class="CaseContent__commandBg"></div><a class="Button CaseContent__button" href="https://get.harpa.ai"
+            target="_blank" type="button">USE COMMAND</a>
+    </column>
+    <column class="CaseContent__command">
+        <row class="CaseContent__commandIcons"><img class="CaseContent__commandIcon Image"
+                src="/img/use-case-marketing.svg" style="width: 40px; height: 40px;"></row>
+        <div class="CaseContent__commandTitle">SEO Audit</div>
+        <div class="CaseContent__commandDesc">Audit and improve your content for E-E-A-T, generate H1 and Meta Title.
+        </div>
+        <div class="CaseContent__commandBg"></div><a class="Button CaseContent__button" href="https://get.harpa.ai"
+            target="_blank" type="button">USE COMMAND</a>
+    </column>
+    <column class="CaseContent__command">
+        <row class="CaseContent__commandIcons"><img class="CaseContent__commandIcon Image"
+                src="/img/use-case-marketing.svg" style="width: 40px; height: 40px;"></row>
+        <div class="CaseContent__commandTitle">Keyword cluster</div>
+        <div class="CaseContent__commandDesc">Cluster a list of keywords based on their semantic relevance.</div>
+        <div class="CaseContent__commandBg"></div><a class="Button CaseContent__button" href="https://get.harpa.ai"
+            target="_blank" type="button">USE COMMAND</a>
+    </column>
+    <column class="CaseContent__command">
+        <row class="CaseContent__commandIcons"><img class="CaseContent__commandIcon Image"
+                src="/img/use-case-marketing.svg" style="width: 40px; height: 40px;"></row>
+        <div class="CaseContent__commandTitle">6 months SEO plan</div>
+        <div class="CaseContent__commandDesc">Create SEO strategies, competitive with the top websites in the given
+            space.</div>
+        <div class="CaseContent__commandBg"></div><a class="Button CaseContent__button" href="https://get.harpa.ai"
+            target="_blank" type="button">USE COMMAND</a>
+    </column>
+    <column class="CaseContent__command">
+        <row class="CaseContent__commandIcons"><img class="CaseContent__commandIcon Image"
+                src="/img/use-case-marketing.svg" style="width: 40px; height: 40px;"></row>
+        <div class="CaseContent__commandTitle">Landing page structure</div>
+        <div class="CaseContent__commandDesc">Create a landing page structure with attention grabbing headlines about
+            the given topic, product or service.</div>
+        <div class="CaseContent__commandBg"></div><a class="Button CaseContent__button" href="https://get.harpa.ai"
+            target="_blank" type="button">USE COMMAND</a>
+    </column>
+    <column class="CaseContent__command">
+        <row class="CaseContent__commandIcons"><img class="CaseContent__commandIcon Image"
+                src="/img/use-case-marketing.svg" style="width: 40px; height: 40px;"></row>
+        <div class="CaseContent__commandTitle">Content ideas generator</div>
+        <div class="CaseContent__commandDesc">Generate a list of content ideas for a business, product or service for a
+            blog.</div>
+        <div class="CaseContent__commandBg"></div><a class="Button CaseContent__button" href="https://get.harpa.ai"
+            target="_blank" type="button">USE COMMAND</a>
+    </column>
+    <column class="CaseContent__command">
+        <row class="CaseContent__commandIcons"><img class="CaseContent__commandIcon Image"
+                src="/img/use-case-marketing.svg" style="width: 40px; height: 40px;"></row>
+        <div class="CaseContent__commandTitle">Meta description from text</div>
+        <div class="CaseContent__commandDesc">Generate a 20-words meta description from the given webpage text.</div>
+        <div class="CaseContent__commandBg"></div><a class="Button CaseContent__button" href="https://get.harpa.ai"
+            target="_blank" type="button">USE COMMAND</a>
+    </column>
+    <column class="CaseContent__command">
+        <row class="CaseContent__commandIcons"><img class="CaseContent__commandIcon Image"
+                src="/img/use-case-marketing.svg" style="width: 40px; height: 40px;"></row>
+        <div class="CaseContent__commandTitle">Promotional email writer</div>
+        <div class="CaseContent__commandDesc">Write marketing email that promotes any product or service.</div>
+        <div class="CaseContent__commandBg"></div><a class="Button CaseContent__button" href="https://get.harpa.ai"
+            target="_blank" type="button">USE COMMAND</a>
+    </column>
+    <column class="CaseContent__command">
+        <row class="CaseContent__commandIcons"><img class="CaseContent__commandIcon Image"
+                src="/img/use-case-marketing.svg" style="width: 40px; height: 40px;"></row>
+        <div class="CaseContent__commandTitle">Еmail notifications on items forgotten in cart</div>
+        <div class="CaseContent__commandDesc">Generate a series of three abandoned cart emails for product, designed to
+            engage the recipient and ultimately convert them into a paying customer.</div>
+        <div class="CaseContent__commandBg"></div><a class="Button CaseContent__button" href="https://get.harpa.ai"
+            target="_blank" type="button">USE COMMAND</a>
+    </column>
+    <column class="CaseContent__command">
+        <row class="CaseContent__commandIcons"><img class="CaseContent__commandIcon Image" src="/img/app-instagram.svg"
+                style="width: 40px; height: 40px;"><img class="CaseContent__commandIcon Image"
+                src="/img/app-facebook.svg" style="width: 40px; height: 40px;"><img
+                class="CaseContent__commandIcon Image" src="/img/app-twitter.svg" style="width: 40px; height: 40px;">
+        </row>
+        <div class="CaseContent__commandTitle">Influencer outreach DM</div>
+        <div class="CaseContent__commandDesc">Write cold outreach DMs to help you sign influencer campaigns.</div>
+        <div class="CaseContent__commandBg"></div><a class="Button CaseContent__button" href="https://get.harpa.ai"
+            target="_blank" type="button">USE COMMAND</a>
+    </column>
+    <column class="CaseContent__command">
+        <row class="CaseContent__commandIcons"><img class="CaseContent__commandIcon Image"
+                src="/img/app-amazon-dark.svg" style="width: 40px; height: 40px;"></row>
+        <div class="CaseContent__commandTitle">SEO-friendly product description writer</div>
+        <div class="CaseContent__commandDesc">Write optimized product description based on a list of product features.
+            For the best results provide as much info as possible and include SEO keywords.</div>
+        <div class="CaseContent__commandBg"></div><a class="Button CaseContent__button" href="https://get.harpa.ai"
+            target="_blank" type="button">USE COMMAND</a>
+    </column>
+    <column class="CaseContent__command">
+        <row class="CaseContent__commandIcons"><img class="CaseContent__commandIcon Image"
+                src="/img/use-case-marketing.svg" style="width: 40px; height: 40px;"></row>
+        <div class="CaseContent__commandTitle">Google Business posts writer</div>
+        <div class="CaseContent__commandDesc">Get SEO optimized Google Business Posts for your Google Business Profile.
+        </div>
+        <div class="CaseContent__commandBg"></div><a class="Button CaseContent__button" href="https://get.harpa.ai"
+            target="_blank" type="button">USE COMMAND</a>
+    </column>
+    <column class="CaseContent__command">
+        <row class="CaseContent__commandIcons"><img class="CaseContent__commandIcon Image" src="/img/app-instagram.svg"
+                style="width: 40px; height: 40px;"><img class="CaseContent__commandIcon Image" src="/img/app-tiktok.svg"
+                style="width: 40px; height: 40px;"><img class="CaseContent__commandIcon Image"
+                src="/img/app-facebook.svg" style="width: 40px; height: 40px;"><img
+                class="CaseContent__commandIcon Image" src="/img/app-twitter.svg" style="width: 40px; height: 40px;">
+        </row>
+        <div class="CaseContent__commandTitle">Social media content ideas</div>
+        <div class="CaseContent__commandDesc">Generate a list of 10 engaging post ideas that are tailored to the
+            interests of your target audience, increase engagement and drive traffic.</div>
+        <div class="CaseContent__commandBg"></div><a class="Button CaseContent__button" href="https://get.harpa.ai"
+            target="_blank" type="button">USE COMMAND</a>
+    </column>
+    <column class="CaseContent__command">
+        <row class="CaseContent__commandIcons"><img class="CaseContent__commandIcon Image"
+                src="/img/use-case-marketing.svg" style="width: 40px; height: 40px;"></row>
+        <div class="CaseContent__commandTitle">Hero image ideas</div>
+        <div class="CaseContent__commandDesc">Create ideas of a hero image (banner) for your web page.</div>
+        <div class="CaseContent__commandBg"></div><a class="Button CaseContent__button" href="https://get.harpa.ai"
+            target="_blank" type="button">USE COMMAND</a>
+    </column>
+    <column class="CaseContent__command">
+        <row class="CaseContent__commandIcons"><img class="CaseContent__commandIcon Image"
+                src="/img/use-case-marketing.svg" style="width: 40px; height: 40px;"></row>
+        <div class="CaseContent__commandTitle">SILO website structure</div>
+        <div class="CaseContent__commandDesc">Create a SILO structure for a website from a list of keywords.</div>
+        <div class="CaseContent__commandBg"></div><a class="Button CaseContent__button" href="https://get.harpa.ai"
+            target="_blank" type="button">USE COMMAND</a>
+    </column>
+    <column class="CaseContent__command">
+        <row class="CaseContent__commandIcons"><img class="CaseContent__commandIcon Image"
+                src="/img/use-case-marketing.svg" style="width: 40px; height: 40px;"></row>
+        <div class="CaseContent__commandTitle">Content analyzer</div>
+        <div class="CaseContent__commandDesc">Evaluate and audit an article text content in order to understand if it
+            answers the user search intent.</div>
+        <div class="CaseContent__commandBg"></div><a class="Button CaseContent__button" href="https://get.harpa.ai"
+            target="_blank" type="button">USE COMMAND</a>
+    </column>
+    <column class="CaseContent__command">
+        <row class="CaseContent__commandIcons"><img class="CaseContent__commandIcon Image"
+                src="/img/use-case-marketing.svg" style="width: 40px; height: 40px;"></row>
+        <div class="CaseContent__commandTitle">Domain name generator</div>
+        <div class="CaseContent__commandDesc">Generate 50 domain name ideas for your niche.</div>
+        <div class="CaseContent__commandBg"></div><a class="Button CaseContent__button" href="https://get.harpa.ai"
+            target="_blank" type="button">USE COMMAND</a>
+    </column>
+    <column class="CaseContent__command">
+        <row class="CaseContent__commandIcons"><img class="CaseContent__commandIcon Image"
+                src="/img/use-case-marketing.svg" style="width: 40px; height: 40px;"></row>
+        <div class="CaseContent__commandTitle">Digital strategy generator</div>
+        <div class="CaseContent__commandDesc">Generate high level Digital Strategy for the given topic, service, product
+            or business. Get a list of channels, actions and KPIs.</div>
+        <div class="CaseContent__commandBg"></div><a class="Button CaseContent__button" href="https://get.harpa.ai"
+            target="_blank" type="button">USE COMMAND</a>
+    </column>
+    <column class="CaseContent__command">
+        <row class="CaseContent__commandIcons"><img class="CaseContent__commandIcon Image"
+                src="/img/use-case-marketing.svg" style="width: 40px; height: 40px;"></row>
+        <div class="CaseContent__commandTitle">Promotional comment writer</div>
+        <div class="CaseContent__commandDesc">Write a helpful comment or reply to the given text, which promotes your
+            product, business or service.</div>
+        <div class="CaseContent__commandBg"></div><a class="Button CaseContent__button" href="https://get.harpa.ai"
+            target="_blank" type="button">USE COMMAND</a>
+    </column>
+    <column class="CaseContent__command">
+        <row class="CaseContent__commandIcons"><img class="CaseContent__commandIcon Image"
+                src="/img/use-case-marketing.svg" style="width: 40px; height: 40px;"></row>
+        <div class="CaseContent__commandTitle">Sales pitch writer</div>
+        <div class="CaseContent__commandDesc">Write enticing, personable and humorous sales pitches and emails.</div>
+        <div class="CaseContent__commandBg"></div><a class="Button CaseContent__button" href="https://get.harpa.ai"
+            target="_blank" type="button">USE COMMAND</a>
+    </column>
+    <column class="CaseContent__command">
+        <row class="CaseContent__commandIcons"><img class="CaseContent__commandIcon Image"
+                src="/img/use-case-marketing.svg" style="width: 40px; height: 40px;"></row>
+        <div class="CaseContent__commandTitle">Image briefs for SEO blog articles</div>
+        <div class="CaseContent__commandDesc">Find places in an article or web page to put images. Returns what the
+            picture should be.</div>
+        <div class="CaseContent__commandBg"></div><a class="Button CaseContent__button" href="https://get.harpa.ai"
+            target="_blank" type="button">USE COMMAND</a>
+    </column>
+    <column class="CaseContent__command">
+        <row class="CaseContent__commandIcons"><img class="CaseContent__commandIcon Image" src="/img/app-instagram.svg"
+                style="width: 40px; height: 40px;"></row>
+        <div class="CaseContent__commandTitle">Instagram post caption generator</div>
+        <div class="CaseContent__commandDesc">Create 3 Instagram post captions along with hashtags.</div>
+        <div class="CaseContent__commandBg"></div><a class="Button CaseContent__button" href="https://get.harpa.ai"
+            target="_blank" type="button">USE COMMAND</a>
+    </column>
+    <column class="CaseContent__command">
+        <row class="CaseContent__commandIcons"><img class="CaseContent__commandIcon Image" src="/img/app-instagram.svg"
+                style="width: 40px; height: 40px;"></row>
+        <div class="CaseContent__commandTitle">Instagram Midjourney prompt generator</div>
+        <div class="CaseContent__commandDesc">Outputs four detailed Midjourney prompts to generate an Instagram photo.
+        </div>
+        <div class="CaseContent__commandBg"></div><a class="Button CaseContent__button" href="https://get.harpa.ai"
+            target="_blank" type="button">USE COMMAND</a>
+    </column>
+    <column class="CaseContent__command">
+        <row class="CaseContent__commandIcons"><img class="CaseContent__commandIcon Image" src="/img/app-instagram.svg"
+                style="width: 40px; height: 40px;"></row>
+        <div class="CaseContent__commandTitle">Instagram hashtag generator</div>
+        <div class="CaseContent__commandDesc">Create up to 30 Instagram Hashtags.</div>
+        <div class="CaseContent__commandBg"></div><a class="Button CaseContent__button" href="https://get.harpa.ai"
+            target="_blank" type="button">USE COMMAND</a>
+    </column>
+    <column class="CaseContent__command">
+        <row class="CaseContent__commandIcons"><img class="CaseContent__commandIcon Image" src="/img/app-instagram.svg"
+                style="width: 40px; height: 40px;"></row>
+        <div class="CaseContent__commandTitle">Instagram ads hook generator</div>
+        <div class="CaseContent__commandDesc">Generate ad hooks / angles for anything you're promoting with Instagram
+            Ads.</div>
+        <div class="CaseContent__commandBg"></div><a class="Button CaseContent__button" href="https://get.harpa.ai"
+            target="_blank" type="button">USE COMMAND</a>
+    </column>
+    <column class="CaseContent__command">
+        <row class="CaseContent__commandIcons"><img class="CaseContent__commandIcon Image" src="/img/app-instagram.svg"
+                style="width: 40px; height: 40px;"></row>
+        <div class="CaseContent__commandTitle">Instagram post ideas generator</div>
+        <div class="CaseContent__commandDesc">Create 10 Instagram reels ideas for the given topic.</div>
+        <div class="CaseContent__commandBg"></div><a class="Button CaseContent__button" href="https://get.harpa.ai"
+            target="_blank" type="button">USE COMMAND</a>
+    </column>
+    <column class="CaseContent__command">
+        <row class="CaseContent__commandIcons"><img class="CaseContent__commandIcon Image" src="/img/app-tiktok.svg"
+                style="width: 40px; height: 40px;"></row>
+        <div class="CaseContent__commandTitle">TikTok hashtag generator</div>
+        <div class="CaseContent__commandDesc">Create up to 30 TikTok Hashtags.</div>
+        <div class="CaseContent__commandBg"></div><a class="Button CaseContent__button" href="https://get.harpa.ai"
+            target="_blank" type="button">USE COMMAND</a>
+    </column>
+    <column class="CaseContent__command">
+        <row class="CaseContent__commandIcons"><img class="CaseContent__commandIcon Image" src="/img/app-youtube.svg"
+                style="width: 40px; height: 40px;"></row>
+        <div class="CaseContent__commandTitle">YouTube audience analyzer</div>
+        <div class="CaseContent__commandDesc">Read transcript of a YouTube video and analyze its target audience.</div>
+        <div class="CaseContent__commandBg"></div><a class="Button CaseContent__button" href="https://get.harpa.ai"
+            target="_blank" type="button">USE COMMAND</a>
+    </column>
+    <column class="CaseContent__command">
+        <row class="CaseContent__commandIcons"><img class="CaseContent__commandIcon Image" src="/img/app-youtube.svg"
+                style="width: 40px; height: 40px;"></row>
+        <div class="CaseContent__commandTitle">YouTube description generator</div>
+        <div class="CaseContent__commandDesc">Generate title, description and hashtags for a youtube video idea.</div>
+        <div class="CaseContent__commandBg"></div><a class="Button CaseContent__button" href="https://get.harpa.ai"
+            target="_blank" type="button">USE COMMAND</a>
+    </column>
+    <column class="CaseContent__command">
+        <row class="CaseContent__commandIcons"><img class="CaseContent__commandIcon Image" src="/img/app-youtube.svg"
+                style="width: 40px; height: 40px;"></row>
+        <div class="CaseContent__commandTitle">YouTube hashtag generator</div>
+        <div class="CaseContent__commandDesc">Create up to 30 YouTube Hashtags.</div>
+        <div class="CaseContent__commandBg"></div><a class="Button CaseContent__button" href="https://get.harpa.ai"
+            target="_blank" type="button">USE COMMAND</a>
+    </column>
+    <column class="CaseContent__command">
+        <row class="CaseContent__commandIcons"><img class="CaseContent__commandIcon Image" src="/img/app-youtube.svg"
+                style="width: 40px; height: 40px;"></row>
+        <div class="CaseContent__commandTitle">YouTube polls generator</div>
+        <div class="CaseContent__commandDesc">Create an attention-grabbing YouTube poll for a video channel.</div>
+        <div class="CaseContent__commandBg"></div><a class="Button CaseContent__button" href="https://get.harpa.ai"
+            target="_blank" type="button">USE COMMAND</a>
+    </column>
+    <column class="CaseContent__command">
+        <row class="CaseContent__commandIcons"><img class="CaseContent__commandIcon Image" src="/img/app-facebook.svg"
+                style="width: 40px; height: 40px;"></row>
+        <div class="CaseContent__commandTitle">Facebook ads hook generator</div>
+        <div class="CaseContent__commandDesc">Generate ad hooks / angles for anything you're promoting with Facebook
+            Ads.</div>
+        <div class="CaseContent__commandBg"></div><a class="Button CaseContent__button" href="https://get.harpa.ai"
+            target="_blank" type="button">USE COMMAND</a>
+    </column>
+    <column class="CaseContent__command">
+        <row class="CaseContent__commandIcons"><img class="CaseContent__commandIcon Image" src="/img/app-facebook.svg"
+                style="width: 40px; height: 40px;"></row>
+        <div class="CaseContent__commandTitle">Facebook ads generator</div>
+        <div class="CaseContent__commandDesc">Generate a custom Facebook ad to boost conversions and revenue of your
+            product or service.</div>
+        <div class="CaseContent__commandBg"></div><a class="Button CaseContent__button" href="https://get.harpa.ai"
+            target="_blank" type="button">USE COMMAND</a>
+    </column>
+    <column class="CaseContent__command">
+        <row class="CaseContent__commandIcons"><img class="CaseContent__commandIcon Image" src="/img/app-facebook.svg"
+                style="width: 40px; height: 40px;"></row>
+        <div class="CaseContent__commandTitle">Facebook hashtag generator</div>
+        <div class="CaseContent__commandDesc">Create up to 30 Facebook Hashtags.</div>
+        <div class="CaseContent__commandBg"></div><a class="Button CaseContent__button" href="https://get.harpa.ai"
+            target="_blank" type="button">USE COMMAND</a>
+    </column>
+    <column class="CaseContent__command">
+        <row class="CaseContent__commandIcons"><img class="CaseContent__commandIcon Image" src="/img/app-linkedin.svg"
+                style="width: 40px; height: 40px;"></row>
+        <div class="CaseContent__commandTitle">LinkedIn hashtag generator</div>
+        <div class="CaseContent__commandDesc">Create up to 30 LinkedIn Hashtags.</div>
+        <div class="CaseContent__commandBg"></div><a class="Button CaseContent__button" href="https://get.harpa.ai"
+            target="_blank" type="button">USE COMMAND</a>
+    </column>
+    <column class="CaseContent__command">
+        <row class="CaseContent__commandIcons"><img class="CaseContent__commandIcon Image" src="/img/app-twitter.svg"
+                style="width: 40px; height: 40px;"></row>
+        <div class="CaseContent__commandTitle">Twitter hashtag generator</div>
+        <div class="CaseContent__commandDesc">Create up to 30 Twitter Hashtags.</div>
+        <div class="CaseContent__commandBg"></div><a class="Button CaseContent__button" href="https://get.harpa.ai"
+            target="_blank" type="button">USE COMMAND</a>
+    </column>
+    <column class="CaseContent__command">
+        <row class="CaseContent__commandIcons"><img class="CaseContent__commandIcon Image" src="/img/app-pinterest.svg"
+                style="width: 40px; height: 40px;"></row>
+        <div class="CaseContent__commandTitle">Pinterest pin description</div>
+        <div class="CaseContent__commandDesc">Create description for a Pinterest pin from title or topic.</div>
+        <div class="CaseContent__commandBg"></div><a class="Button CaseContent__button" href="https://get.harpa.ai"
+            target="_blank" type="button">USE COMMAND</a>
+    </column>
+</div>
